@@ -1,8 +1,5 @@
 package edu.penzgtu.entities;
 
-import java.util.Random;
-
-
 public class Monster {
     private String name;
     private int health;
